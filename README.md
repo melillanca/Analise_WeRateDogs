@@ -6,7 +6,7 @@ This project presents the work of data wrangling and exploratory data analysis o
 
 These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
 
-## Quickstart
+## Overview
 
 There are three inputs:
 - A file called 'twitter-archive-enhanced.csv' provided by WeRateDogs, corresponding to your Twitter archive. This file contains over 2,000 of their tweets, plus the growth stage of the dog posted (i.e. doggo, floofer, pupper, and puppo); plus the numerator and denominator of the rating. However, this file has the disadvantage of not having the complete information regarding replies and retweets. CSV format.
@@ -24,7 +24,7 @@ A Data Wrangling process is developed in its three stages:
 
 Finally, an EDA is carried out.
 
-## License
+## License
 
 ### MIT License
 
